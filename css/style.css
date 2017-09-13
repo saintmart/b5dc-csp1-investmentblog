@@ -1,0 +1,130 @@
+header,
+footer,
+.subscribe,
+.toparticles {
+	font-family: 'Fjalla One', sans-serif;
+
+}
+
+/*mobile*/
+@media only screen and (min-width: 100px) and (max-width: 400px) {
+	a.brand-logo {
+	padding-left: 0;
+	}
+
+	.texticon {
+    display: inline-block;
+    height: 100%;
+	}
+
+	.texticon > img {
+	vertical-align: middle;
+	position: relative;
+	left: 100px;
+	margin-bottom: 10px 0;
+	}
+
+}/*mobile end*/
+
+/*tablet*/
+@media only screen and (min-width: 401px) and (max-width: 990px) {
+	a.brand-logo {
+		padding-left: 0;
+	}
+
+	.texticon {
+    display: inline-block;
+    height: 100%;
+	}
+
+	.texticon > img {
+	vertical-align: middle;
+	position: relative;
+	left: 80px;
+	margin: 10px 0;
+    }
+
+} /*tablet end*/
+
+/*large displays*/
+@media only screen and (min-width: 990px) {
+	a.brand-logo {
+	padding-left: 50px;
+}
+    .texticon {
+    display: inline-block;
+    height: 100%;
+	}
+
+	.texticon > img {
+	vertical-align: middle;
+	position: relative;
+	left: 145px;
+	margin: 10px 0;
+	}
+
+}/*large displays end*/
+
+.btn-small {
+    height: 30px;
+    line-height: 29px;
+    padding: 0 0.5rem;
+}
+
+.side-nav {
+	width: 200px;
+}
+
+footer h5.center-align {
+	margin-bottom: 0;
+}
+
+.searchbar,
+#search {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+.author_box,
+.subscribe_box,
+.toparticles_box {
+	padding: 10px;
+	border-radius: 20px;
+}
+
+i.tiny.search_icon.material-icons {
+	display: block;
+	vertical-align: middle;
+	color: black;
+	margin-top: 8px;
+}
+
+.author_views,
+.author_icon,
+.author_clock,
+.author_folder,
+.author_comment {
+	display: block;
+	vertical-align: middle;
+	margin: 0 5px;
+}
+
+.toparticles {
+	border-radius: 20px;
+	padding: 5px;
+}
+
+.articlelink {
+	color: firebrick;
+	font-size: 17px;
+}
+
+.articledate {
+	margin: 0;
+	font-size: 12px;
+}
+
+.social {
+	margin: 0 10px;
+}
