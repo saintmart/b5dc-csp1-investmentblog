@@ -1,0 +1,51 @@
+https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process
+
+Minimum requirements
+
+
+At least 4 linked pages. Landing page included. 
+Use 1 of many css frameworks
+navigation bar (sidebar)
+social media links
+banner section/landing page (brand name, tag line)
+css must not be inline or internal
+plugins or api are okay (e.g disqus)
+responsive web design
+proper comments and indentation for code readability
+favicon.co must be included
+Use of downloaded pre-made templates is not allowed
+
+
+http://tinyurl.com/baeza-csp1-docs
+http://tinyurl.com/tuitt-b5dc-csp1-docs
+
+--
+
+Capstone Project 1
+
+Guidelines and Grading Criteria
+
+Code quality 40%
+- html and css best practices
+
+site responsiveness 20%
+solid structure and layout across all devices
+
+site content 20%
+- Clear message and purpose
+- Absence of incomplete pages
+- Clearly organized information
+
+Design 20%
+clear and easy to use UI
+Clever synergies of visual elements (typography, graphics, media)
+Decent color harmonies
+Efficient use of space
+
+Be creative. First impression matters.
+Avoid placeholder text
+Optimize files
+
+Presentation September 14, 2017
+
+https://docs.google.com/document/d/1osI3b2_hWKwu0YTznBL1BXfjtTrhTY2iCYGwOoUqb7c/edit

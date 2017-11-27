@@ -1,10 +1,16 @@
-(function($){
-  $(function(){
+$(document).ready(function() {
 
-    $(".button-collapse").sideNav();
-    $('.slider').slider({full_width: true});	
-}); 
+	$(".button-collapse").sideNav();
 
-  // end of document ready
-})(jQuery); // end of jQuery name space
+    $('.slider').slider({fullWidth: true});
 
+    $('.carousel.carousel-slider').carousel({
+    	fullWidth: true,
+    	duration: 500,
+    });	
+
+    $('.carousel').carousel();
+        setInterval(function() {
+			    $('.carousel').carousel('next');
+        }, 20000); 
+});
